@@ -1,0 +1,357 @@
+CAB-MIC-SPR-PFN,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-PFN,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-PFN,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-WHT,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-WHT,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-WHT,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-BLK,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-BLK,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-BLK,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-GRN,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-GRN,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-GRN,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-DNM,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-DNM,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-DNM,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-STLH,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-STLH,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-STLH,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-BAM,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-BAM,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-BAM,Sprinter|Transit|ProMaster
+CAB-MIC-SPR-STLHBAM,Sprinter|Transit|ProMaster
+CAB-MIC-TRN-STLHBAM,Sprinter|Transit|ProMaster
+CAB-MIC-PRO-STLHBAM,Sprinter|Transit|ProMaster
+KTN-TL-SPR-PFN-D130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-PFN-D130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-PFN-D130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-PFN-N130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-PFN-N130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-PFN-N130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-WHT-D130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-WHT-D130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-WHT-D130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-WHT-N130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-WHT-N130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-WHT-N130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-STLH-D130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-STLH-D130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-STLH-D130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-STLH-N130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-STLH-N130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-STLH-N130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-BLK-D130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-BLK-D130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-BLK-D130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-BLK-N130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-BLK-N130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-BLK-N130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-DNM-D130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-DNM-D130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-DNM-D130,Sprinter|Transit|ProMaster
+KTN-TL-SPR-DNM-N130,Sprinter|Transit|ProMaster
+KTN-TL-PRO-DNM-N130,Sprinter|Transit|ProMaster
+KTN-TL-TRN-DNM-N130,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-SPR-20,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-PST-20,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-TRN-20,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-SPR-40,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-PST-40,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-TRN-40,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-SPR-48,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-PST-48,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-TRN-48,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-SPR-60,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-PST-60,Sprinter|Transit|ProMaster
+UPP-PNF-SQL-TRN-60,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-SPR-20,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-PST-20,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-TRN-20,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-SPR-40,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-PST-40,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-TRN-40,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-SPR-48,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-PST-48,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-TRN-48,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-SPR-60,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-PST-60,Sprinter|Transit|ProMaster
+UPP-WHT-SQL-TRN-60,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-SPR-20,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-PST-20,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-TRN-20,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-SPR-40,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-PST-40,Sprinter|Transit|ProMaster
+UPP-BLK-SQL-TRN-40,Sprinter|Transit|ProMaster
+VNMRT002,Sprinter
+MRRVB-BLK,Universal
+MRRVB-WHT,Universal
+VNMRT013,Universal
+SPRD-A,"Sprinter>144""|Sprinter>170"""
+SPRD-B,"Sprinter>144""|Sprinter>170"""
+SPRD-C,"Sprinter>144""|Sprinter>170"""
+SPRD-D,"Sprinter>144""|Sprinter>170"""
+SP-DJ,Sprinter
+SQ-6,Sprinter|Transit
+SP-PM-A,Sprinter
+VNMRT012,Universal
+VNSPD0090,Sprinter
+VNMRT001,Sprinter
+VNSPD077,"Sprinter>144""|Sprinter>170"""
+sku-40529242456136,Sprinter
+sku-40529242488904,Sprinter
+sku-40561597775944,Sprinter
+VNMRT007,Sprinter
+VNSPD079,"Transit>148"""
+VNSPD084,Sprinter
+VNSPD080,"Transit>148"""
+NWU0258,Sprinter|Transit|ProMaster
+NWU0259,Sprinter|Transit|ProMaster
+NWP0262,Sprinter|Transit|ProMaster
+NWP0261,Sprinter|Transit|ProMaster
+VNSPD102-A,Sprinter
+VNSPD102-B,Sprinter
+VNSPD102-C,Sprinter
+VNSPD102-D,Sprinter
+VNSPD101-A,Sprinter
+VNSPD101-B,Sprinter
+VNSPD100-A,Sprinter
+VNSPD100-B,Sprinter
+VNSPD104,Transit
+VNSPD103-A,Transit
+VNSPD103-B,Transit
+sku-40571150860360,"Sprinter>144"""
+sku-40571150893128,"Sprinter>144"""
+VNSPD-029K + VW1033L + VW1033R,"Sprinter>144""|Sprinter>170"""
+VNSPD-029 + VW1033L + VW1033R,"Sprinter>144""|Sprinter>170"""
+VNSPD-029K,"Sprinter>144""|Sprinter>170"""
+VNSPD-029,"Sprinter>144""|Sprinter>170"""
+VNSPD-029BK,"Sprinter>144""|Sprinter>170"""
+VNSPD-029B,"Sprinter>144""|Sprinter>170"""
+VNSPD-030K + VW1033L + VW1033R,"Sprinter>144""|Sprinter>170"""
+VNSPD-030 + VW1033L + VW1033R,"Sprinter>144""|Sprinter>170"""
+VNSPD-030K,"Sprinter>144""|Sprinter>170"""
+VNSPD-030,"Sprinter>144""|Sprinter>170"""
+VNSPD-057K,"Transit>148""|Transit>148"" Ext"
+VNSPD-057,"Transit>148""|Transit>148"" Ext"
+VNSPD-057K + VW3310L + VW3310R,"Transit>148""|Transit>148"" Ext"
+VNSPD-057 + VW3310L + VW3310R,"Transit>148""|Transit>148"" Ext"
+VNSPD-082K,"Transit>148""|Transit>148"" Ext"
+VNSPD-082,"Transit>148""|Transit>148"" Ext"
+VNSPD-082K + VW3310L + VW3310R,"Transit>148""|Transit>148"" Ext"
+VNSPD-082 + VW3310L + VW3310R,"Transit>148""|Transit>148"" Ext"
+SP-V0005V2,Sprinter
+FD-MRL,"Transit>148"""
+SOLAR-B,Sprinter|Transit
+"TRRR148MR-1, TRRRHR148-2, TRRR148HR-3","Transit>148"""
+BOC,Sprinter
+SP-RLB,Sprinter
+SQ5-DB,Sprinter
+TRRR148XC-2,Transit
+FD-RTCL-1,Transit
+SP-SBH-1,Sprinter
+SP-SS144,"Sprinter>144""|Sprinter>170"""
+SP-PTA-V2,Sprinter
+SP-DTA-V3,Sprinter
+"TRRR148HR-1, TRRR148HR-2, TRRR148HR-3","Transit>148"""
+"SPLR144-1, SPLR144-2","Sprinter>144"""
+"SPLR144-1, SPLR144-2","Sprinter>144"""
+SPHRL,"Sprinter>144""|Sprinter>170"""
+AADP144-All,"Sprinter>144""|Sprinter>170""|Sprinter>148""|Transit>144""|Transit>170""|Transit>148"""
+ZZ-ZJ,Sprinter
+FFHR,"Sprinter>144""|Sprinter>170"""
+SP-SBH-2,Sprinter
+SQ-SNTB,Sprinter
+SP-RR144J,"Sprinter>144"""
+SQ5,Sprinter|Transit
+SPRR-XC-2,Sprinter
+TRRR148-XC-2,Sprinter
+SQ-2,Sprinter|Transit
+A0006 V3,Sprinter
+SP-V0006V2,Sprinter
+SP-RTL-1,Sprinter
+FD-HRL-01,"Transit>148"""
+"SPRR170J-1, SPRR170J-2,SP-RR170J-3","Sprinter>170"""
+"SPRR170J-1, SPRR170J-2,SP-RR170J-EXT","Sprinter>170"" Ext|Sprinter>170"""
+SP-RDMP,Sprinter
+"SPRR144v3-1, SPRR144V3-2,SPRR170v3","Sprinter>170"""
+SP-PFB-V2-3,Sprinter
+"TRRR148HREL-1, TRRR148HR-2, TRRR148HR-3","Transit>148"" Ext|Transit>148"""
+LB-Bracket,Sprinter
+SP-RRB-144,"Sprinter>144"""
+"SP-PFBv2-1, SP-PFBv2-2",Sprinter
+"SP-PFBv3-1, SP-PFBv3-2",Sprinter
+"SPRR144v3-1, SPRR144v3-2","Sprinter>144"""
+VNSPD083,Universal
+TWNS-61,Sprinter|Transit
+sku-45651484278975,Sprinter|Transit
+TWNS-62,Sprinter|Transit
+sku-45651484311743,Sprinter|Transit
+TWS-68,Sprinter|Transit|ProMaster
+TWFT-68,Sprinter|Transit|ProMaster
+TWPM-68,Sprinter|Transit|ProMaster
+TWS-17M,Sprinter
+TWNS-93,Sprinter
+TWUN-99,Universal
+48Slider,Sprinter
+28VS30,Sprinter
+27VS30,Sprinter
+47Rear,Sprinter
+BH-LOW-1,Sprinter
+BH-LOW-2,Sprinter
+29Foot,Sprinter
+26NCV3,Sprinter
+NVC3CUP-1,Sprinter
+LM-DMRP-BNIG,Sprinter
+BAM-RU,Sprinter
+25NCV3,Sprinter
+SL-HEX,Sprinter
+BH-UP,Sprinter
+TetrapodSlide,Sprinter
+BB-LOW,Sprinter
+TetrapodRear,Sprinter
+A-T-SUP-FCK-LB-BB,Transit
+A-T-SUP-FCK-LB-NB,Transit
+A-T-SUP-FCK-EB-BB,Transit
+A-T-SUP-FCK-EB-NB,Transit
+A-T-FSB-LB-LT,"Transit>148"""
+A-T-FSB-LB-NL,"Transit>148"""
+A-T-FSB-EB-LT,"Transit>148"""
+A-T-FSB-EB-NL,"Transit>148"""
+A-T-SUP-FAC-FR3PI,Transit
+A-T-SUP-FAC-RE2PI,Transit
+A-T-SB-LR-RRK-01,"Transit>130"""
+A-T-EB-WWK-BB-01,"Transit>148"" Ext"
+A-T-EB-WWK-BB-02,"Transit>148"" Ext"
+A-T-EB-WWK-BB-03,"Transit>148"" Ext"
+A-T-EB-WWK-BB-04,"Transit>148"" Ext"
+A-T-EB-WWK-BB-05,"Transit>148"" Ext"
+A-T-EB-WWK-BB-06,"Transit>148"" Ext"
+A-T-EB-WWK-BB-07,"Transit>148"" Ext"
+A-T-EB-WWK-BB-08,"Transit>148"" Ext"
+A-T-EB-WWK-BB-09,"Transit>148"" Ext"
+A-T-EB-WWK-BB-10,"Transit>148"" Ext"
+A-T-EB-WWK-BB-11,"Transit>148"" Ext"
+A-T-EB-WWK-BB-12,"Transit>148"" Ext"
+A-T-EB-WWK-BB-13,"Transit>148"" Ext"
+A-T-EB-WWK-BB-14,"Transit>148"" Ext"
+A-T-EB-WWK-BB-15,"Transit>148"" Ext"
+A-T-EB-WWK-BB-16,"Transit>148"" Ext"
+A-T-EB-WWK-BB-17,"Transit>148"" Ext"
+A-T-EB-WWK-BB-18,"Transit>148"" Ext"
+A-T-EB-WWK-BB-19,"Transit>148"" Ext"
+A-T-EB-WWK-BB-20,"Transit>148"" Ext"
+A-T-EB-WWK-BB-21,"Transit>148"" Ext"
+A-T-EB-WWK-BB-22,"Transit>148"" Ext"
+A-T-EB-WWK-BB-23,"Transit>148"" Ext"
+A-T-EB-WWK-BB-24,"Transit>148"" Ext"
+A-T-EB-WWK-BB-25,"Transit>148"" Ext"
+A-T-EB-WWK-BB-26,"Transit>148"" Ext"
+A-T-EB-WWK-BB-27,"Transit>148"" Ext"
+A-T-EB-WWK-BB-28,"Transit>148"" Ext"
+A-T-EB-WWK-BB-29,"Transit>148"" Ext"
+A-T-EB-WWK-BB-30,"Transit>148"" Ext"
+A-T-LB-MR-WWK-BB-01,"Transit>148"""
+A-T-LB-MR-WWK-BB-02,"Transit>148"""
+A-T-LB-MR-WWK-BB-03,"Transit>148"""
+A-T-LB-MR-WWK-BB-04,"Transit>148"""
+A-T-LB-MR-WWK-BB-05,"Transit>148"""
+A-T-LB-MR-WWK-BB-06,"Transit>148"""
+A-T-LB-MR-WWK-BB-07,"Transit>148"""
+A-T-LB-MR-WWK-BB-08,"Transit>148"""
+A-T-LB-MR-WWK-BB-09,"Transit>148"""
+A-T-LB-MR-WWK-BB-10,"Transit>148"""
+A-T-LB-MR-WWK-BB-11,"Transit>148"""
+A-T-LB-MR-WWK-BB-12,"Transit>148"""
+A-T-LB-MR-WWK-BB-13,"Transit>148"""
+A-T-LB-MR-WWK-BB-14,"Transit>148"""
+A-T-LB-MR-WWK-BB-15,"Transit>148"""
+A-T-LB-MR-WWK-BB-16,"Transit>148"""
+A-T-LB-MR-WWK-BB-17,"Transit>148"""
+A-T-LB-MR-WWK-BB-18,"Transit>148"""
+A-T-LB-MR-WWK-BB-19,"Transit>148"""
+A-T-LB-MR-WWK-BB-20,"Transit>148"""
+A-T-LB-MR-WWK-BB-21,"Transit>148"""
+A-T-LB-MR-WWK-BB-22,"Transit>148"""
+A-T-LB-MR-WWK-BB-23,"Transit>148"""
+A-T-LB-MR-WWK-BB-24,"Transit>148"""
+A-T-LB-MR-WWK-BB-25,"Transit>148"""
+A-T-LB-MR-WWK-BB-26,"Transit>148"""
+A-T-LB-MR-WWK-BB-27,"Transit>148"""
+A-T-LB-MR-WWK-BB-28,"Transit>148"""
+A-T-LB-MR-WWK-BB-29,"Transit>148"""
+A-T-LB-MR-WWK-BB-30,"Transit>148"""
+A-T-LB-HR-WWK-BB-01,"Transit>148"""
+A-T-LB-HR-WWK-BB-02,"Transit>148"""
+A-T-LB-HR-WWK-BB-03,"Transit>148"""
+A-T-LB-HR-WWK-BB-04,"Transit>148"""
+A-T-LB-HR-WWK-BB-05,"Transit>148"""
+A-T-LB-HR-WWK-BB-06,"Transit>148"""
+A-T-LB-HR-WWK-BB-07,"Transit>148"""
+A-T-LB-HR-WWK-BB-08,"Transit>148"""
+A-T-LB-HR-WWK-BB-09,"Transit>148"""
+A-T-LB-HR-WWK-BB-10,"Transit>148"""
+A-T-LB-HR-WWK-BB-11,"Transit>148"""
+A-T-LB-HR-WWK-BB-12,"Transit>148"""
+A-T-LB-HR-WWK-BB-13,"Transit>148"""
+A-T-LB-HR-WWK-BB-14,"Transit>148"""
+A-T-LB-HR-WWK-BB-15,"Transit>148"""
+A-T-LB-HR-WWK-BB-16,"Transit>148"""
+A-T-LB-HR-WWK-BB-17,"Transit>148"""
+A-T-LB-HR-WWK-BB-18,"Transit>148"""
+A-T-LB-HR-WWK-BB-19,"Transit>148"""
+A-T-LB-HR-WWK-BB-20,"Transit>148"""
+A-T-LB-HR-WWK-BB-21,"Transit>148"""
+A-T-LB-HR-WWK-BB-22,"Transit>148"""
+A-T-LB-HR-WWK-BB-23,"Transit>148"""
+A-T-LB-HR-WWK-BB-24,"Transit>148"""
+A-T-LB-HR-WWK-BB-25,"Transit>148"""
+A-T-LB-HR-WWK-BB-26,"Transit>148"""
+A-T-LB-HR-WWK-BB-27,"Transit>148"""
+A-T-LB-HR-WWK-BB-28,"Transit>148"""
+A-T-LB-HR-WWK-BB-29,"Transit>148"""
+A-T-LB-HR-WWK-BB-30,"Transit>148"""
+A-T-FSS-LB-LT,"Transit>130""|Transit>148"""
+A-T-FSS-LB-NL,"Transit>130""|Transit>148"""
+A-T-FSS-EB-LT,"Transit>130""|Transit>148"""
+A-T-FSS-EB-NL,"Transit>130""|Transit>148"""
+VNSPD085,Sprinter
+"PM159HR-1, PM159HR-2","ProMaster>159"""
+"PM159HREL-1, PM159HR-2","ProMaster>159"" Ext|ProMaster>159"""
+PM-159HRL,"ProMaster>159"""
+SG-STORM,Sprinter
+EP-FAF,Sprinter
+IP-LAG-PASS,Sprinter
+IP-LAGKIT-PASS-SLV,Sprinter
+IP-LAG-DRV,Sprinter
+IP-LAGKIT-DRV-SLV,Sprinter
+IP-LAGKIT-STE-SLV,Sprinter
+IP-LAGKIT-PASS-BLK,Sprinter
+IP-LAGKIT-DRV-BLK,Sprinter
+IP-LAGKIT-STE-BLK,Sprinter
+SG-SHWR,Sprinter
+SG-WAPO-SM,Sprinter|Transit
+SG-WAPO-MED,Sprinter|Transit
+SG-WAPO-LG,Sprinter|Transit
+SG-WAPO-MULTIPK,Sprinter|Transit
+SG-UTIBA-SM-BLK,Sprinter
+SG-UTIBA-SS-BLK,Sprinter
+SG-UTIBA-LG-BLK,Sprinter
+SG-UTIBA-SL-BLK,Sprinter
+SG-UTIBA-BTL-BLK,Sprinter
+SG-UTIBA-SET-BLK,Sprinter
+sku-54791481589833,Sprinter
+sku-55073555677257,Sprinter
+SG-UTIBA-SM-GRY,Sprinter
+SG-UTIBA-SS-GRY,Sprinter
+SG-UTIBA-LG-GRY,Sprinter
+SG-UTIBA-SL-GRY,Sprinter
+SG-UTIBA-BTL-GRY,Sprinter
+SG-UTIBA-SET-GRY,Sprinter
+sku-54791481622601,Sprinter
+sku-55073555710025,Sprinter
+VNSPD087,"Sprinter>144""|Sprinter>170"""
+LM-ETSV-VUUI,"Sprinter>144""|Sprinter>170"""
+VNSPD086 & VNSPD087,"Sprinter>144""|Sprinter>170"""
+VNSPD088,"Sprinter>144""|Sprinter>148""|Sprinter>170""|Transit>144""|Transit>148""|Transit>170"""
+VNSPD086,"Sprinter>144""|Sprinter>148""|Sprinter>170""|Transit>144""|Transit>148""|Transit>170"""
+VNSPD089 & VNSPD088,"Sprinter>144""|Sprinter>148""|Sprinter>170""|Transit>144""|Transit>148""|Transit>170"""
