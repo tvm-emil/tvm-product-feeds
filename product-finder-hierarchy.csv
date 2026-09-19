@@ -484,13 +484,6 @@ WAL-WHT-148-FWAP,"Transit>148"""
 WAL-BLK-148-FWAP,"Transit>148"""
 WAL-STH-148-FWAP,"Transit>148"""
 WAL-MER-148-FWAP,"Transit>148"""
-WAL-PNF-148E-FWAP,"Transit>148"""
-WAL-BMB-148E-FWAP,"Transit>148"""
-WAL-FKG-148E-FWAP,"Transit>148"""
-WAL-WHT-148E-FWAP,"Transit>148"""
-WAL-BLK-148E-FWAP,"Transit>148"""
-WAL-STH-148E-FWAP,"Transit>148"""
-WAL-MER-148E-FWAP,"Transit>148"""
 CEL-PFN-144L-FMB,"Sprinter>144""|Sprinter>170"""
 CEL-PFN-144L-GCF,"Sprinter>144""|Sprinter>170"""
 CEL-PFN-144L-FGC,"Sprinter>144""|Sprinter>170"""
@@ -1301,3 +1294,13 @@ UPR-GSL-ARS-TRN-48,Sprinter|Transit|ProMaster
 UPR-GSL-ARS-SPR-60,Sprinter|Transit|ProMaster
 UPR-GSL-ARS-PST-60,Sprinter|Transit|ProMaster
 UPR-GSL-ARS-TRN-60,Sprinter|Transit|ProMaster
+sku-47361383661804,Sprinter|Transit|ProMaster
+sku-47361383694572,Sprinter|Transit|ProMaster
+sku-47361383727340,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-SPR-40,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-PST-40,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-TRN-40,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-SPR-48,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-PST-48,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-TRN-48,Sprinter|Transit|ProMaster
+UPR-DNM-ARS-SPR-60,Sprinter|Transit|ProMaster
