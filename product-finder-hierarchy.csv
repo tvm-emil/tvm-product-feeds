@@ -11,3 +11,55 @@ FW621L,"Sprinter>144""|Sprinter>170"""
 TVM-DRTRKTRM,"Sprinter>144"""
 TVM-RFRAIL-WB144,"Sprinter>144""|Sprinter>170"""
 TVM-RFRAIL-WB170,"Sprinter>144""|Sprinter>170"""
+1003,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1004,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1005,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1006,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1007,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1008,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1009,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+1010,"ProMaster>144""|ProMaster>170""|ProMaster>148""|ProMaster>159""|Sprinter>144""|Sprinter>170""|Sprinter>148""|Sprinter>159""|Transit>144""|Transit>170""|Transit>148""|Transit>159"""
+TVM-DOORPNL-OAT,Sprinter
+TVM-DOORPNL-BLK,Sprinter
+TVM-DOORPNL-GRY,Sprinter
+BSD001,Sprinter
+BSP002,Sprinter
+BSD001/BSP002,Sprinter
+VNSPD099-A,Universal
+VNSPD099-B,Universal
+VNSPD099-C,Universal
+91398,Transit
+#91308,Universal
+TVM-CRLRING,Universal
+TVM-HDLFAB-GREYMIX,Sprinter
+TVM-HDLFAB-DKGREY,Sprinter
+TVM-HDLFAB-OAT,Sprinter
+TVM-HDLFAB-TOAST,Sprinter
+TVM-HDLFAB-BLK,Sprinter
+TVM-CAPCHAIR-NS,Universal
+TVM-CAPCHAIR-SW,Universal
+VNMRT041,Sprinter
+5013913A,Universal
+VNSPD-005,"Sprinter>144""|Sprinter>170"""
+VNSPD-005 + VNSPD-005-SA3,"Sprinter>144""|Sprinter>170"""
+VNSPD-015,"Sprinter>144""|Sprinter>170"""
+VNSPD-007,"Sprinter>144""|Sprinter>170"""
+VNSPD-024,Universal
+VNSPD-027,"Sprinter>144""|Sprinter>170"""
+VNSPD-048,Universal
+VNSPD-026,"Sprinter>144""|Sprinter>170"""
+TVM-AUXSW,"Sprinter>144""|Sprinter>170"" Ext|Sprinter>170"""
+VNSPD-011,"Sprinter>144""|Sprinter>170"""
+VNSPD-009,"Sprinter>144""|Sprinter>170"""
+VNSPD-016,"Sprinter>144""|Sprinter>170"""
+VNSPD-016 + VNSPD-017,"Sprinter>144""|Sprinter>170"""
+VNSPD-015 + VNSPD-016,"Sprinter>144""|Sprinter>170"""
+VNSPD-008B,"Sprinter>144""|Sprinter>170"""
+VNSPD-010,"Sprinter>144"""
+VNSPD-036,Sprinter
+VNSPD-035,Sprinter
+VNSPD-040,Universal
+VNSPD-041,Universal
+VNSPD-038,Sprinter
+VNMRT057-A,Universal
+VNMRT057-B,Universal
